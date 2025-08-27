@@ -40,7 +40,7 @@ main {
     text-align: end;
     display: flex;
     width: 100vw;
-    position:fixed;
+    /* position:fixed; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     align-content: space-between;
